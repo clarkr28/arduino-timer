@@ -20,3 +20,8 @@ Better, but doesn't spiral as well as it could:
 Spiraling display:
 
 ![Spiraling display](resources/correct.gif)
+
+And when a timer finishes, the display does a little dance!
+
+![Spiraling display](resources/dance.gif)
+
